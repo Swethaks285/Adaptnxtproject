@@ -44,7 +44,7 @@ Before running this project, ensure you have the following installed:
 1. *Clone the repository:*
 
    ```bash
-   git clone https://github.com/your-username/dashboard-analytics-project.git
-   cd dashboard-analytics-project
+   git clone https://github.com/Swethaks285/Adaptnxtproject
+
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
