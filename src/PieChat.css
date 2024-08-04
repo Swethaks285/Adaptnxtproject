@@ -1,0 +1,15 @@
+.chart-legend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .chart-legend-item {
+    margin-right: 20px;
+  }
+  .span{
+    font-weight: normal !important;
+    font-size: 20px;
+    text-align: center;
+  }
+  

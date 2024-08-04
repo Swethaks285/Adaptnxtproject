@@ -1,0 +1,40 @@
+.list-container {
+    width: 200px;
+    text-align: left;
+    color: #152238;
+    background-color: #ffffff;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    padding: 10px;
+  }
+  
+  li.active {
+    color: purple;
+    background-color: #f7ebfe;
+  }
+  
+  li.nested {
+    position: relative;
+  }
+  
+  li.nested .arrow {
+    float: right;
+  }
+  
+  li.nested .sub-list {
+    display: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li.nested:hover .sub-list {
+    display: block;
+  }
